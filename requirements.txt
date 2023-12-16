@@ -1,4 +1,4 @@
-torch==1.11.1
+torch==1.11.0
 transformers==4.11.3
 sentencepiece==0.1.95
 tqdm==4.62.3
